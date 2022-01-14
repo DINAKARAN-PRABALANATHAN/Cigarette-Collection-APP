@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777442530085",
+    "firebase_url": "https://cibin-collection.firebaseio.com",
+    "project_id": "cibin-collection",
+    "storage_bucket": "cibin-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777442530085:android:a5d315311d261651f100cc",
+        "android_client_info": {
+          "package_name": "com.cibinenterprizes.cibincollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777442530085-e6q6eafvanb49k4kjuiaaeqsu3hhvk3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Pw0S_chLXoc6hA1Yi-U9G5kni-kKYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777442530085-e6q6eafvanb49k4kjuiaaeqsu3hhvk3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
